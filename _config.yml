@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   you about the Mobile SDK and are not intended to teach you how to program in 
   Objective-C or Java.
 # baseurl: "/labs" # the subpath of your site, e.g. /blog/
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://blog.bruning.io/animated-wallhack" # the base hostname & protocol for your site
 twitter_username: ethan_bruning
 github_username:  ebruning
 paginate: 10
